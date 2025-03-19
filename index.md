@@ -15,3 +15,4 @@ for i in range(10):
 ```
 - [x] Github intrduction course complete
 - [ ] Github markdown course complete
+- [ ] First project no Github is loaded
